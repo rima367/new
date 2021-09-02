@@ -1,0 +1,20 @@
+.menu{
+    background-color: coral;
+}
+.navbar-nav .nav-item .nav-link{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 15px 15px;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: black;
+    background-color: antiquewhite;
+}
+.navbar{
+    padding: 0px;
+}
+.navbar img{
+    height: 40px;
+}
